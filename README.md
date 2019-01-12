@@ -18,8 +18,8 @@ On standard difficulty the computer is practically indistinguishable from a real
 
 REQUIREMENTS:
 * Java (if it does not work, update java)
-min. resolution: 1200x700
-max. resolution: There is no maximum screen resultion per se. However, if the resolution is far greater than the minimum, at some point one probably wants to decrease it, because the game elements might become too small. Unfortunately, the window does not scale.
+* min. resolution: 1200x700
+* max. resolution: There is no maximum screen resultion per se. However, if the resolution is far greater than the minimum, at some point one probably wants to decrease it, because the game elements might become too small. Unfortunately, the window does not scale.
 
 -- HELP IMPROVE THIS PROGRAM --
 You can help improving this program. If you are a (native) speaker of a language the game does not support yet, you may translate the values of all string variables in the file scr/harlekinskat3/English.java (this includes the long text about the rules as well as some simple phrases and single words) and copy it as another file (e.g. French.java). I can do the rest myself, which would be: adding another button in the file Languages.java (and making the window a bit larger to make the button fit in) as well as adding code (very analog to what is already there) for the action listeners in the same file and at the end of the main class file Harlekinskat3.java.
