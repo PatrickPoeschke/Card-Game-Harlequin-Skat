@@ -1,6 +1,12 @@
 # Card-Game-Harlequin-Skat
 2D video game (in JAVA): rare variation of famous card game Skat using a 32 card deck
 
+-- DOWNLOAD LINK --
+
+If you want to play the game without compiling any files, you can download the game here:
+
+https://patrick-poeschke.itch.io/harlequin-skat-3-harlekinskat-3
+
 -- DESCRIPTION OF THE PROGRAM --
 
 Skat is by far the most famous card game in Germany. It uses a 32 card deck, i.e. a poker deck without the cards lower than the 7s.
