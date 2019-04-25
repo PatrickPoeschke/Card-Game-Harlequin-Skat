@@ -22,11 +22,15 @@ FEATURES:
 * "French deck with German colors" for good visibilty of cards (spades are green, diamonds are yellow)
 * 3 difficulty levels for CPU:
 On standard difficulty the computer is practically indistinguishable from a real human player. + an easier + a harder difficulty
+New Features of version 4.0:
+* full screen mode (scalable to all screen resolutions)
+* new look: most important cards, the jacks, stand out more
+* improoved AI
+* option: let the computer tell its current strategies (and thus learn from it)
 
 REQUIREMENTS:
 * Java (if it does not work, update java)
-* min. resolution: 1200x700
-* max. resolution: There is no maximum screen resultion per se. However, if the resolution is far greater than the minimum, at some point one probably wants to decrease it, because the game elements might become too small. Unfortunately, the window does not scale.
+* 1MB free disk space (basically almost nothing)
 
 -- HELP IMPROVE THIS PROGRAM --
 
@@ -52,3 +56,9 @@ version 3.0 (9Jan2019):
 
 upload to GitHub (12Jan2019)
 
+version 4.0 (26April2019)
+* major rewriting of code for better readability,
+* minor bugs in AI corrected
+* improoved AI: added strategy on hard difficulty
+* new feature: scalable windows, including full screen option
+* new feature: option for letting computer reveal its strategies
