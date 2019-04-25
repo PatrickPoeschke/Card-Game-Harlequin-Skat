@@ -34,11 +34,10 @@ REQUIREMENTS:
 
 -- HELP IMPROVE THIS PROGRAM --
 
-You can help improving this program. If you are a (native) speaker of a language the game does not support yet, you may translate the values of all string variables in the file scr/harlekinskat3/English.java (this includes the long text about the rules as well as some simple phrases and single words) and copy it as another file (e.g. French.java). I can do the rest myself, which would be: adding another button in the file Languages.java (and making the window a bit larger to make the button fit in) as well as adding code (very analog to what is already there) for the action listeners in the same file and at the end of the main class file Harlekinskat3.java.
+You can help improving this program. If you are a (native) speaker of a language the game does not support yet, you may translate the values of all string variables in the file scr/harlekinskat4/English.java (this includes the long text about the rules as well as some simple phrases and single words) and copy it as another file (e.g. French.java). I can do the rest myself, which would be: adding another button in the file Languages.java (and making the window a bit larger to make the button fit in) as well as adding code (very analog to what is already there) for the action listeners in the same file and at the end of the main class file Harlekinskat4.java.
 Please note, that term like "jack of clubs" is too difficult for the tranlating machines nowadays. Also they are too inconsistent when it comes to these words.
 
-Making the main window of the game (and all its graphical elemts) scale with the screen resolution would probably require a lot of adding of code.
-Similarly, adding an online versus mode would probably require adding a lot code as well as major rewriting of existing code.
+Adding an online versus mode would probably require adding a lot code as well as major rewriting of existing code.
 
 
 -- QUICK VERSION INFO --
@@ -56,9 +55,11 @@ version 3.0 (9Jan2019):
 
 upload to GitHub (12Jan2019)
 
-version 4.0 (26April2019)
+version 4.0 (25April2019)
 * major rewriting of code for better readability,
 * minor bugs in AI corrected
 * improoved AI: added strategy on hard difficulty
 * new feature: scalable windows, including full screen option
 * new feature: option for letting computer reveal its strategies
+
+upload to GitHub (26April2019)
