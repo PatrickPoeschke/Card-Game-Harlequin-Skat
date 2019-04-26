@@ -5,6 +5,10 @@
 
 If you want to play the game without compiling any files, you can download the game here:
 
+https://patrick-poeschke.itch.io/harlequin-skat-4-harlekinskat-4
+
+for older versions look here:
+
 https://patrick-poeschke.itch.io/harlequin-skat-3-harlekinskat-3
 
 -- DESCRIPTION OF THE PROGRAM --
@@ -22,7 +26,8 @@ FEATURES:
 * "French deck with German colors" for good visibilty of cards (spades are green, diamonds are yellow)
 * 3 difficulty levels for CPU:
 On standard difficulty the computer is practically indistinguishable from a real human player. + an easier + a harder difficulty
-New Features of version 4.0:
+
+NEW FEATURES OF VERSION 4.0:
 * full screen mode (scalable to all screen resolutions)
 * new look: most important cards, the jacks, stand out more
 * improoved AI
