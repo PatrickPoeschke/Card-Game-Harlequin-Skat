@@ -9,7 +9,7 @@ https://patrick-poeschke.itch.io/harlequin-skat-4-harlekinskat-4
 
 for older versions look here:
 
-https://patrick-poeschke.itch.io/harlequin-skat-3-harlekinskat-3
+https://patrick-poeschke.itch.io/
 
 -- DESCRIPTION OF THE PROGRAM --
 
@@ -30,7 +30,7 @@ On standard difficulty the computer is practically indistinguishable from a real
 NEW FEATURES OF VERSION 4.0:
 * full screen mode (scalable to all screen resolutions)
 * new look: most important cards, the jacks, stand out more
-* improoved AI
+* improved AI
 * option: let the computer tell its current strategies (and thus learn from it)
 
 REQUIREMENTS:
@@ -40,7 +40,7 @@ REQUIREMENTS:
 -- HELP IMPROVE THIS PROGRAM --
 
 You can help improving this program. If you are a (native) speaker of a language the game does not support yet, you may translate the values of all string variables in the file scr/harlekinskat4/English.java (this includes the long text about the rules as well as some simple phrases and single words) and copy it as another file (e.g. French.java). I can do the rest myself, which would be: adding another button in the file Languages.java (and making the window a bit larger to make the button fit in) as well as adding code (very analog to what is already there) for the action listeners in the same file and at the end of the main class file Harlekinskat4.java.
-Please note, that term like "jack of clubs" is too difficult for the tranlating machines nowadays. Also they are too inconsistent when it comes to these words.
+Please note, that terms like "jack of clubs"are too difficult for the translating machines nowadays. Also, they are too inconsistent, when it comes to these words.
 
 Adding an online versus mode would probably require adding a lot code as well as major rewriting of existing code.
 
@@ -48,7 +48,7 @@ Adding an online versus mode would probably require adding a lot code as well as
 -- QUICK VERSION INFO --
 
 version 1.0 (24Sep2018):
-* full game finished will all core features (rules, 3 cpu levels)
+* full game finished with all core features (rules, 3 cpu levels)
 
 version 2.0 (26Dec2018):
 * major rewriting of code for better readability,
@@ -63,7 +63,7 @@ upload to GitHub (12Jan2019)
 version 4.0 (25April2019)
 * major rewriting of code for better readability,
 * minor bugs in AI corrected
-* improoved AI: added strategy on hard difficulty
+* improved AI: added strategy on hard difficulty
 * new feature: scalable windows, including full screen option
 * new feature: option for letting computer reveal its strategies
 
