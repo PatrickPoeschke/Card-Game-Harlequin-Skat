@@ -361,7 +361,7 @@ public class German {
         stringServeLow="<html><body><blockquote>bediene Lusche</blockquote></body></html>";
         stringDiscardLow="<html><body><blockquote>versuche Lusche abzuschmei&szlig;en</blockquote></body></html>";
         stringDiscardColor="<html><body><blockquote>versuche Farbe abzuschmei&szlig;en</blockquote></body></html>";
-        stringTrumpHigh="<html><body><blockquote>versuche Trumpf-Volle zu stechen</blockquote></body></html>";
+        stringTrumpHigh="<html><body><blockquote>versuche Volle mit Trumpf zu stechen</blockquote></body></html>";
         stringWasteLeast="<html><body><blockquote>versuche Verschwendung zu minimieren</blockquote></body></html>";
         stringTryBestMove="<html><body><blockquote>versuche besten Zug</blockquote></body></html>";
         stringTryBestMoveWithCounting="<html><body><blockquote>versuche besten Zug durch Kartenz&auml;hlen</blockquote></body></html>";
